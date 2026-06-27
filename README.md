@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there 👋, I'm Priyanshu Saini
 
-<!--
-**priyanshu-saini78/priyanshu-saini78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring AI Automation Specialist
 
-Here are some ideas to get you started:
+I am passionate about building AI-powered automation solutions using **n8n**, **Google Gemini AI**, **REST APIs**, and **JavaScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am developing real-world AI Automation projects to solve practical business problems and continuously improving my skills.
+
+---
+
+## 🛠 Tech Stack
+
+* 🤖 AI Automation
+* 🔄 n8n
+* 🧠 Google Gemini AI
+* 🌐 REST APIs
+* 📦 JSON
+* 💻 JavaScript
+* 🎨 HTML5
+* 🎨 CSS3
+* 🚀 Vercel
+* 🐙 Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Resume Analyzer
+
+An AI-powered Resume Analyzer that compares resumes with job descriptions and provides ATS-style feedback.
+
+🌐 Live Demo:
+
+https://ai-resume-analyzer-pro-six.vercel.app
+
+---
+
+### 📧 AI Email Response Automation
+
+AI-powered email automation workflow built using n8n and Google Gemini AI.
+
+Features:
+
+* Automatic Email Reading
+* AI-generated Professional Replies
+* Gmail Integration
+* Workflow Automation
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn:
+
+www.linkedin.com/in/priyanshusaini-ai
+
+🌐 Live Project:
+
+https://ai-resume-analyzer-pro-six.vercel.app
+
+---
+
+⭐ Thanks for visiting my profile!
