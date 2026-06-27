@@ -21,6 +21,13 @@ Currently, I am developing real-world AI Automation projects to solve practical 
 * 🚀 Vercel
 * 🐙 Git & GitHub
 
+
+## 🌐 My Portfolio
+
+**Live Website:** https://ai-portfolio-livid.vercel.app/
+
+**GitHub Repository:** https://github.com/priyanshu-saini78/ai-portfolio
+
 ---
 
 ## 🚀 Featured Projects
