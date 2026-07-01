@@ -1,59 +1,62 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Saini</h1>
 
 <h3 align="center">
-AI Automation Enthusiast | n8n Developer | AI Workflow Builder | JavaScript Learner
+AI Automation Developer | n8n Workflow Builder | Google Gemini AI
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Automation+Developer;Building+Real+World+AI+Workflows;Google+Gemini+AI+%7C+n8n+%7C+JavaScript;Always+Learning+New+Technologies"/>
-
+I build AI-powered workflow automation using <strong>n8n</strong>, <strong>Google Gemini AI</strong>, REST APIs, and Webhooks to automate repetitive business tasks.
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🤖 AI Automation Developer
-- 🔄 Building workflow automation using **n8n**
-- 🧠 Working with **Google Gemini AI**
-- 🌐 Learning **JavaScript, APIs and Full Stack Development**
-- 💼 Building real-world AI Automation Projects
-- 🎯 Goal: Become an AI Automation Engineer
+I'm passionate about building AI-powered workflow automation that solves real business problems.
+
+Currently, I'm focused on creating intelligent automation using **n8n** and **Google Gemini AI**, integrating APIs, and developing practical AI solutions.
+
+- 🤖 AI Workflow Automation
+- ⚙️ n8n Workflow Development
+- 🧠 Google Gemini AI Integration
+- 📧 Gmail API Automation
+- 📊 Google Sheets API Integration
+- 🔗 REST API Integration
+- ⚡ Webhooks
+- 💻 HTML, CSS & JavaScript
+- 🚀 Building Real-world AI Projects
 
 ---
 
 # 🛠 Tech Stack
 
-### 🤖 AI & Automation
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=github,git,vscode"/>
-
-</p>
+### AI & Automation
 
 - n8n
 - Google Gemini AI
-- REST APIs
-- Webhooks
 - AI Agents
+- Prompt Engineering
 - Structured Output Parser
+- Workflow Automation
 
-### 💻 Programming
+### APIs & Integrations
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
-</p>
-
-### ☁️ Tools
-
+- REST APIs
 - Gmail API
 - Google Sheets API
+- Webhooks
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+
+### Tools
+
+- Git
 - GitHub
-- VS Code
+- Visual Studio Code
 
 ---
 
@@ -61,39 +64,87 @@ AI Automation Enthusiast | n8n Developer | AI Workflow Builder | JavaScript Lear
 
 ## 🤖 AI Resume Analyzer
 
-AI-powered Resume Analyzer built using **n8n** and **Google Gemini AI**.
+An AI-powered Resume Analyzer built using **n8n** and **Google Gemini AI** that analyzes resumes against job descriptions and provides intelligent feedback.
 
 ### Features
 
-- Resume Parsing
 - ATS Match Score
+- Resume Analysis
 - Missing Skills Detection
-- Resume Suggestions
-- AI Feedback
-- PDF Upload Support
+- AI Suggestions
+- Job Description Comparison
 
-🔗 Repository
+### Technologies
 
-https://github.com/priyanshu-saini78/AI-Resume-Analyzer
+- n8n
+- Google Gemini AI
+- HTML
+- CSS
+- JavaScript
+- Webhooks
+
+### Repository
+
+https://github.com/priyanshu-saini78/ai-resume-analyzer-pro
+
+### Live Demo
+
+https://ai-resume-analyzer-pro-six.vercel.app/
 
 ---
 
 ## 📧 AI Smart Email Assistant
 
-AI-powered Email Automation Workflow using **n8n** and **Gemini AI**.
+An AI-powered Email Automation workflow that automatically processes Gmail messages using AI.
 
 ### Features
 
 - Gmail Trigger
 - Email Classification
 - Priority Detection
-- Sentiment Analysis
 - AI Reply Generation
 - Google Sheets Integration
 
-🔗 Repository
+### Technologies
+
+- n8n
+- Google Gemini AI
+- Gmail API
+- Google Sheets API
+- AI Agent
+- Structured Output Parser
+
+### Repository
 
 https://github.com/priyanshu-saini78/ai-smart-email-assistant
+
+---
+
+## 🌐 Personal Portfolio
+
+A responsive portfolio website showcasing my AI Automation projects, technical skills, and GitHub repositories.
+
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced n8n Workflows
+- AI Agent Development
+- Prompt Engineering
+- REST API Integration
+- JavaScript for Automation
+
+---
+
+# 🎯 Career Objective
+
+My goal is to become an AI Automation Developer by building practical AI solutions that improve business productivity through intelligent workflow automation.
 
 ---
 
@@ -101,9 +152,13 @@ https://github.com/priyanshu-saini78/ai-smart-email-assistant
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshu-saini78&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshu-saini78&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-saini78&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-saini78&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -113,63 +168,7 @@ https://github.com/priyanshu-saini78/ai-smart-email-assistant
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=priyanshu-saini78&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-saini78&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- AI Automation
-- n8n Advanced Workflows
-- AI Agents
-- REST APIs
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build 10+ AI Automation Projects
-- ✅ Master n8n
-- ✅ Learn Full Stack Development
-- ✅ Get an AI Automation Internship
-- ✅ Contribute to Open Source
-
----
-
-# 🏆 Achievements
-
-- 🚀 Built multiple AI Automation Projects using **n8n**
-- 🤖 Integrated **Google Gemini AI** into real-world workflows
-- 📧 Created AI Smart Email Assistant
-- 📄 Developed AI Resume Analyzer
-- 🌐 Built and deployed personal portfolio website
-- 📚 Continuously learning AI Automation & Full Stack Development
-
----
-
-# 💻 Coding Profiles
-
-<p align="left">
-
-<a href="https://github.com/priyanshu-saini78">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=priyanshu-saini78&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -177,72 +176,31 @@ https://github.com/priyanshu-saini78/ai-smart-email-assistant
 
 # 📫 Connect With Me
 
-<p align="left">
+📧 Email: **priyanshu09374@gmail.com**
 
-<a href="mailto:priyanshu09374@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+💻 GitHub: **https://github.com/priyanshu-saini78**
 
-<a href="https://www.linkedin.com/in/priyanshusaini-ai/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/priyanshu-saini78">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+💼 LinkedIn: **Add your LinkedIn profile link here**
 
 ---
 
-# 💡 Quote
+# 🎯 Current Focus
 
-> **"I enjoy building AI-powered automation that saves time, reduces manual work, and solves real-world business problems."**
-
----
-
-# 🚀 Current Focus
-
-- 🤖 Building AI Automation Workflows using n8n
-- 📧 AI Smart Email Assistant
-- 📄 AI Resume Analyzer
-- 🌐 Learning Full Stack Development
-- ⚡ Exploring AI Agents & Workflow Automation
-
----
-
-# 🛠 Tech I'm Working With
-
-- n8n
-- Google Gemini AI
-- JavaScript
-- HTML
-- CSS
-- REST APIs
-- Webhooks
-- Gmail API
-- Google Sheets API
-- Git & GitHub
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=priyanshu-saini78&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+- Building AI Automation Workflows
+- Learning Advanced n8n Automation
+- Developing AI-powered Business Solutions
+- Improving API Integration Skills
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for Visiting My Profile!
+## ⭐ Thank You for Visiting!
+
+I'm always excited to learn new technologies, build automation solutions, and collaborate on AI projects.
 
 If you like my work, don't forget to ⭐ my repositories.
 
-### 🚀 "Building the future with AI Automation."
+🚀 **Let's build smarter automation with AI!**
 
 </div>
-
