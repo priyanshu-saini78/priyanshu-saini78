@@ -30,29 +30,29 @@ Currently, I'm focused on creating intelligent automation using **n8n** and **Go
 
 # 🛠 Tech Stack
 
-### AI & Automation
+### 🤖 AI & Automation
 
-- n8n
+- n8n Workflow Automation
 - Google Gemini AI
 - AI Agents
 - Prompt Engineering
 - Structured Output Parser
-- Workflow Automation
+- Workflow Design
 
-### APIs & Integrations
+### 🔗 APIs & Integrations
 
 - REST APIs
 - Gmail API
 - Google Sheets API
 - Webhooks
 
-### Frontend
+### 💻 Frontend
 
 - HTML
 - CSS
 - JavaScript
 
-### Tools
+### 🛠 Development Tools
 
 - Git
 - GitHub
@@ -64,30 +64,32 @@ Currently, I'm focused on creating intelligent automation using **n8n** and **Go
 
 ## 🤖 AI Resume Analyzer
 
-An AI-powered Resume Analyzer built using **n8n** and **Google Gemini AI** that analyzes resumes against job descriptions and provides intelligent feedback.
+An AI-powered Resume Analyzer that evaluates resumes against job descriptions using **n8n** and **Google Gemini AI**. It provides intelligent feedback to help improve resume quality and ATS compatibility.
 
-### Features
+### Key Features
 
-- ATS Match Score
-- Resume Analysis
-- Missing Skills Detection
-- AI Suggestions
-- Job Description Comparison
+- 📄 Resume Parsing
+- 🎯 ATS Match Score
+- 🧠 AI-Powered Resume Analysis
+- 📊 Missing Skills Detection
+- 💡 Personalized Improvement Suggestions
+- 📋 Job Description Comparison
 
-### Technologies
+### Built With
 
 - n8n
 - Google Gemini AI
 - HTML
 - CSS
 - JavaScript
+- REST APIs
 - Webhooks
 
-### Repository
+### 🔗 Repository
 
 https://github.com/priyanshu-saini78/ai-resume-analyzer-pro
 
-### Live Demo
+### 🌐 Live Demo
 
 https://ai-resume-analyzer-pro-six.vercel.app/
 
@@ -95,26 +97,26 @@ https://ai-resume-analyzer-pro-six.vercel.app/
 
 ## 📧 AI Smart Email Assistant
 
-An AI-powered Email Automation workflow that automatically processes Gmail messages using AI.
+An AI-powered email automation workflow built with **n8n** and **Google Gemini AI** that intelligently processes incoming emails and generates professional responses.
 
-### Features
+### Key Features
 
-- Gmail Trigger
-- Email Classification
-- Priority Detection
-- AI Reply Generation
-- Google Sheets Integration
+- 📥 Gmail Trigger
+- 🏷 Email Classification
+- ⭐ Priority Detection
+- 🤖 AI Reply Generation
+- 📊 Google Sheets Integration
 
-### Technologies
+### Built With
 
 - n8n
 - Google Gemini AI
 - Gmail API
 - Google Sheets API
-- AI Agent
+- AI Agents
 - Structured Output Parser
 
-### Repository
+### 🔗 Repository
 
 https://github.com/priyanshu-saini78/ai-smart-email-assistant
 
@@ -122,9 +124,9 @@ https://github.com/priyanshu-saini78/ai-smart-email-assistant
 
 ## 🌐 Personal Portfolio
 
-A responsive portfolio website showcasing my AI Automation projects, technical skills, and GitHub repositories.
+A responsive personal portfolio website showcasing my AI Automation projects, technical skills, and GitHub repositories.
 
-### Technologies
+### Built With
 
 - HTML
 - CSS
@@ -134,21 +136,49 @@ A responsive portfolio website showcasing my AI Automation projects, technical s
 
 # 🌱 Currently Learning
 
-- Advanced n8n Workflows
+- Advanced n8n Workflow Automation
 - AI Agent Development
-- Prompt Engineering
 - REST API Integration
 - JavaScript for Automation
+- Workflow Optimization
+- Prompt Engineering
 
 ---
 
 # 🎯 Career Objective
 
+To build intelligent AI-powered automation solutions that improve business productivity by reducing manual work through workflow automation, API integrations, and generative AI.
+
+I'm actively seeking opportunities as an **AI Automation Intern** where I can contribute to real-world projects while continuously learning and improving my skills.
+
+---
+
 My goal is to become an AI Automation Developer by building practical AI solutions that improve business productivity through intelligent workflow automation.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshu-saini78&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-saini78&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=priyanshu-saini78&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu-saini78&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 <p align="center">
 
