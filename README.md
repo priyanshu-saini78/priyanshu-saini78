@@ -1,200 +1,82 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Saini</h1>
 
-<h3 align="center">
-AI Automation Developer | n8n Workflow Builder | Google Gemini AI Enthusiast
-</h3>
+<h3 align="center">AI Automation Specialist | n8n Workflow Automation | Google Gemini AI</h3>
 
 <p align="center">
-I build AI-powered workflow automation using <strong>n8n</strong>, <strong>Google Gemini AI</strong>, REST APIs, and Webhooks to automate repetitive business processes and improve productivity.
+  I build AI-powered workflow automation systems using n8n, Google Gemini AI,
+  REST APIs, Webhooks, Google Sheets, and Gmail to automate repetitive business processes.
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-I'm an aspiring **AI Automation Developer** passionate about creating intelligent workflow automation solutions.
+I am focused on building practical AI Automation and Workflow Automation solutions that solve real business problems.
 
-I enjoy building real-world AI projects using **n8n**, **Google Gemini AI**, and API integrations that help automate repetitive tasks and simplify business workflows.
+My work focuses on:
 
-### What I Do
-
-- 🤖 Build AI-powered automation workflows
-- ⚙️ Develop automation using n8n
-- 🧠 Integrate Google Gemini AI into workflows
-- 🔗 Connect applications using REST APIs & Webhooks
-- 📧 Automate Gmail workflows
-- 📊 Integrate Google Sheets into automation
-- 💻 Create responsive frontend interfaces using HTML, CSS & JavaScript
-
----
-
-# 🛠 Tech Stack
-
-## 🤖 AI & Automation
-
-- n8n
-- Google Gemini AI
-- AI Agents
-- Prompt Engineering
-- Workflow Automation
-- Structured Output Parser
+- AI-powered workflow automation
+- n8n workflow development
+- Webhook and REST API integrations
+- Google Gemini AI integration
+- Business process automation
+- Conditional logic and workflow routing
+- Structured data processing
+- Automated email and data management
 
 ---
 
-## 🔗 APIs & Integrations
+## 🛠️ Tech Stack
 
-- REST APIs
-- Gmail API
-- Google Sheets API
-- Webhooks
+### AI & Automation
 
----
+`n8n` `Google Gemini AI` `LLM Integration` `Prompt Engineering` `AI Classification`
 
-## 💻 Frontend
+### APIs & Integrations
 
-- HTML
-- CSS
-- JavaScript
+`REST APIs` `HTTP Requests` `Webhooks` `JSON` `Google Sheets` `Gmail`
 
----
+### Programming
 
-## 🛠 Tools
+`JavaScript` `Python Basics`
 
-- Git
-- GitHub
-- Visual Studio Code
+### Tools
+
+`Git` `GitHub` `VS Code` `PowerShell`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI Resume Analyzer
+## 1. 🤖 AI Lead Qualification & Processing System
 
-An AI-powered Resume Analyzer built using **n8n** and **Google Gemini AI** that analyzes resumes against job descriptions and provides intelligent feedback.
+An AI-powered business automation workflow that receives incoming leads through a webhook, validates the lead data, analyzes qualified leads using Google Gemini AI, stores structured results in Google Sheets, and sends automated Gmail communication.
 
-### Key Features
+### Workflow
 
-- Resume Parsing
-- ATS Match Score
-- Resume Analysis
-- Missing Skills Detection
-- AI Suggestions
-- Job Description Comparison
+```text
+Lead Submission
+      ↓
+   Webhook
+      ↓
+Lead Validation
+      ↓
+   ┌───────────────┐
+   │               │
+Valid Lead    Invalid Lead
+   │               │
+   ▼               ▼
+Gemini AI      Rejection
+   │            Handling
+   ▼
+Lead Scoring
+   │
+   ▼
+Priority & Summary
+   │
+   ▼
+Google Sheets
+   │
+   ▼
+Gmail Automation
 
-### Technologies Used
-
-- n8n
-- Google Gemini AI
-- HTML
-- CSS
-- JavaScript
-- REST APIs
-- Webhooks
-
-### Repository
-
-https://github.com/priyanshu-saini78/ai-resume-analyzer-pro
-
-### Live Demo
-
-https://ai-resume-analyzer-pro-six.vercel.app/
-
----
-
-## 📧 AI Smart Email Assistant
-
-An AI-powered email automation workflow built using **n8n** and **Google Gemini AI**.
-
-### Key Features
-
-- Gmail Trigger
-- Email Classification
-- Priority Detection
-- AI Reply Generation
-- Google Sheets Integration
-
-### Technologies Used
-
-- n8n
-- Google Gemini AI
-- Gmail API
-- Google Sheets API
-- AI Agents
-- Structured Output Parser
-
-### Repository
-
-https://github.com/priyanshu-saini78/ai-smart-email-assistant
-
----
-
-## 🌐 Personal Portfolio
-
-A responsive portfolio website showcasing my AI Automation projects, skills, and GitHub repositories.
-
-### Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-# 🌱 Currently Learning
-
-Currently expanding my knowledge in:
-
-- Advanced n8n Workflow Automation
-- AI Agent Development
-- Prompt Engineering
-- REST API Integration
-- JavaScript for Automation
-- Workflow Optimization
-
----
-
-# 🚀 Current Focus
-
-At present, I am focused on:
-
-- Building real-world AI Automation Projects
-- Exploring Google Gemini AI capabilities
-- Creating intelligent workflow automation
-- Improving API Integration skills
-- Developing scalable automation solutions
-
----
-
-# 🎯 Career Objective
-
-My goal is to become an **AI Automation Developer** by building intelligent workflow automation solutions that improve productivity, reduce manual work, and solve real-world business problems.
-
-I'm actively looking for opportunities where I can contribute to AI automation projects while continuously learning and growing as a developer.
-
----
-
-# 📫 Connect With Me
-
-📧 **Email:** priyanshu09374@gmail.com
-
-💻 **GitHub:** https://github.com/priyanshu-saini78
-
-💼 **LinkedIn:** https://www.linkedin.com/in/priyanshusaini-ai/
-
-🌐 **Portfolio:** https://ai-portfolio-livid.vercel.app/
-
----
-
----
-
-<div align="center">
-
-# ⭐ Thank You for Visiting!
-
-I enjoy building AI-powered automation solutions that make work smarter and more efficient.
-
-If you find my projects helpful, consider giving them a ⭐ and feel free to connect with me.
-
-### 🚀 Let's build smarter automation with AI!
-
-</div>
