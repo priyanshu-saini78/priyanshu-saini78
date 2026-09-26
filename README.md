@@ -333,10 +333,8 @@ I focus on practical implementation and continuously improve my automation and p
 
 # GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshu-saini78&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-saini78&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+You can explore my repositories and contributions on my
+[GitHub profile](https://github.com/priyanshu-saini78).
 
 ---
 
