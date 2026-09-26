@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Priyanshu Saini</h1>
 
-<h3 align="center">AI Automation Specialist | n8n Workflow Automation | Google Gemini AI</h3>
+<h3 align="center">Aspiring AI Automation Engineer | n8n | Google Gemini | Workflow Automation</h3>
 
 <p align="center">
-I build AI-powered workflow automation systems using n8n, Google Gemini AI,
-REST APIs, Webhooks, Google Sheets, and Gmail to automate repetitive business processes.
+  I build AI-powered workflow automation systems using n8n, Google Gemini AI,
+  REST APIs, Webhooks, Google Sheets, and Gmail to automate repetitive business processes.
 </p>
 
 ---
 
 ## About Me
 
-I am focused on building practical AI Automation and Workflow Automation solutions that solve real business problems.
+I am a fresher focused on AI automation and workflow engineering. I build practical automation projects that combine AI, workflow logic, APIs, and business applications.
 
 My work focuses on:
 
@@ -48,9 +48,9 @@ My work focuses on:
 
 # Featured Projects
 
-## 1. AI Lead Qualification & Processing System
+## 1. AI Lead Qualification System
 
-An AI-powered business automation workflow that receives incoming leads through a webhook, validates the lead data, analyzes qualified leads using Google Gemini AI, stores structured results in Google Sheets, and sends automated Gmail communication.
+An AI-powered business automation workflow that receives incoming leads through a webhook, validates lead data, analyzes qualified leads using Google Gemini AI, stores structured results in Google Sheets, and sends automated Gmail notifications.
 
 ### Workflow
 
@@ -84,11 +84,15 @@ Google Sheets
 Gmail Automation
 ```
 
-**Technologies:**  
+**Technologies:**
+
 `n8n` `Google Gemini AI` `Webhooks` `JavaScript` `JSON` `Google Sheets` `Gmail`
 
-**Repository:**  
-https://github.com/priyanshu-saini78/AI-Lead-Qualification-System
+**Repository:**
+
+[AI Lead Qualification System](https://github.com/priyanshu-saini78/AI-Lead-Qualification-System)
+
+**Status:** Workflow built and tested. The original cloud workflow is currently unavailable.
 
 ---
 
@@ -130,17 +134,23 @@ Google Sheets  Escalation
 Customer Reply  Team Alert
 ```
 
-**Technologies:**  
+**Technologies:**
+
 `n8n` `Google Gemini AI` `Webhooks` `JavaScript` `JSON` `Google Sheets` `Gmail`
 
-**Repository:**  
-https://github.com/priyanshu-saini78/AI-Customer-Support-Ticket-Automation-System
+**Repository:**
+
+[AI Customer Support Ticket Automation System](https://github.com/priyanshu-saini78/AI-Customer-Support-Ticket-Automation-System)
+
+**Status:** Project documented with workflow screenshots.
 
 ---
 
 ## 3. AI Smart Email Assistant
 
-An AI-powered email automation workflow built using n8n and Google Gemini AI that processes incoming Gmail messages, analyzes email priority and sentiment, stores structured information, and generates professional Gmail draft replies when a response is required.
+An AI-powered email automation workflow built using n8n and Google Gemini AI. It processes incoming Gmail messages, analyzes email priority and sentiment, stores structured information, and generates professional Gmail draft replies when a response is required.
+
+The workflow creates drafts rather than automatically sending replies.
 
 ### Workflow
 
@@ -173,11 +183,15 @@ Reply       No Reply
 Gmail Draft
 ```
 
-**Technologies:**  
+**Technologies:**
+
 `n8n` `Google Gemini AI` `Gmail` `Google Sheets` `JSON` `Prompt Engineering`
 
-**Repository:**  
-https://github.com/priyanshu-saini78/ai-smart-email-assistant
+**Repository:**
+
+[AI Smart Email Assistant](https://github.com/priyanshu-saini78/ai-smart-email-assistant)
+
+**Status:** Workflow built and tested. The live backend is currently unavailable.
 
 ---
 
@@ -212,13 +226,15 @@ Resume + Job Description
       PDF Report
 ```
 
-**Technologies:**  
+**Technologies:**
+
 `n8n` `Google Gemini AI` `REST APIs` `Webhooks` `JavaScript` `JSON`
 
-**Status:** Archived / Supporting Project
+**Repository:**
 
-**Repository:**  
-https://github.com/priyanshu-saini78/ai-resume-analyzer-pro
+[AI Resume Analyzer](https://github.com/priyanshu-saini78/ai-resume-analyzer-pro)
+
+**Status:** Supporting project. The backend is currently unavailable.
 
 > The ATS-style score is an AI-generated analysis and does not represent the exact scoring algorithm of a commercial ATS.
 
@@ -273,7 +289,7 @@ I focus on combining AI with workflow logic and application integrations to auto
 
 # Career Objective
 
-I am preparing for **AI Automation Engineer, AI Automation Specialist, and n8n Automation** internship and entry-level roles.
+I am preparing for AI Automation Engineer, AI Automation Specialist, and n8n Automation internship and entry-level roles.
 
 My goal is to build practical automation systems that combine:
 
@@ -309,7 +325,7 @@ Document
 Improve
 ```
 
-I focus on practical implementation and continuously improve my automation and problem-solving skills through real-world projects.
+I focus on practical implementation and continuously improve my automation and problem-solving skills through projects.
 
 ---
 
@@ -332,26 +348,26 @@ I focus on practical implementation and continuously improve my automation and p
 
 # Connect With Me
 
-Email:  
+**Email:**  
 priyanshu09374@gmail.com
 
-GitHub:  
+**GitHub:**  
 https://github.com/priyanshu-saini78
 
-LinkedIn:  
+**LinkedIn:**  
 https://www.linkedin.com/in/priyanshusaini-ai/
 
-Portfolio:  
+**Portfolio:**  
 https://ai-portfolio-livid.vercel.app/
 
 ---
 
 # Current Focus
 
-- Building practical AI Automation Projects
+- Building practical AI automation projects
 - Improving n8n workflow automation skills
 - Integrating Google Gemini AI into business workflows
-- Improving REST API and Webhook integration skills
+- Improving REST API and webhook integration skills
 - Building reliable conditional routing workflows
 - Learning advanced AI automation concepts
 
