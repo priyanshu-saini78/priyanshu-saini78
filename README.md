@@ -26,19 +26,23 @@ My work focuses on:
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### AI & Automation
+### AI & LLM
 
-`n8n` `Google Gemini AI` `LLM Integration` `Prompt Engineering` `AI Classification`
+`Google Gemini API` `LLM Integration` `Prompt Engineering` `AI Classification`
 
-### APIs & Integrations
+### Automation
 
-`REST APIs` `HTTP Requests` `Webhooks` `JSON` `Google Sheets` `Gmail`
+`n8n` `Workflow Automation` `Webhooks` `Conditional Logic & Routing`
+
+### APIs & Data
+
+`REST APIs` `JSON` `Google Sheets` `Gmail Automation`
 
 ### Programming
 
-`JavaScript` `Python Basics`
+`JavaScript (n8n Data Transformation)` `Python Basics`
 
 ### Tools
 
