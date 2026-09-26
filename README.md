@@ -92,7 +92,7 @@ Gmail Automation
 
 [AI Lead Qualification System](https://github.com/priyanshu-saini78/AI-Lead-Qualification-System)
 
-**Status:** Workflow built and tested. The original cloud workflow is currently unavailable.
+**Status:** Workflow built and tested using local n8n. It can be run locally when the n8n instance is active.
 
 ---
 
@@ -142,7 +142,7 @@ Customer Reply  Team Alert
 
 [AI Customer Support Ticket Automation System](https://github.com/priyanshu-saini78/AI-Customer-Support-Ticket-Automation-System)
 
-**Status:** Project documented with workflow screenshots.
+**Status:** Project documented with workflow screenshots and test cases covering normal, critical, and invalid tickets.
 
 ---
 
@@ -191,13 +191,15 @@ Gmail Draft
 
 [AI Smart Email Assistant](https://github.com/priyanshu-saini78/ai-smart-email-assistant)
 
-**Status:** Workflow built and tested. The live backend is currently unavailable.
+**Status:** Workflow built and tested during the n8n Cloud trial. The hosted workflow is currently inactive because the trial has ended.
 
 ---
 
 ## 4. AI Resume Analyzer
 
 An AI-powered resume analysis project that compares a resume with a job description and generates ATS-style analysis, skill matching, missing skills, strengths, weaknesses, and improvement suggestions.
+
+The project includes a web interface built with HTML, CSS, and JavaScript, connected to an n8n workflow that processes the resume and job description using Google Gemini AI.
 
 ### Workflow
 
@@ -228,13 +230,13 @@ Resume + Job Description
 
 **Technologies:**
 
-`n8n` `Google Gemini AI` `REST APIs` `Webhooks` `JavaScript` `JSON`
+`HTML` `CSS` `JavaScript` `n8n` `Google Gemini AI` `REST APIs` `Webhooks` `JSON`
 
 **Repository:**
 
 [AI Resume Analyzer](https://github.com/priyanshu-saini78/ai-resume-analyzer-pro)
 
-**Status:** Supporting project. The backend is currently unavailable.
+**Status:** Frontend and n8n workflow built and tested during the n8n Cloud trial. The hosted backend is currently inactive because the trial has ended.
 
 > The ATS-style score is an AI-generated analysis and does not represent the exact scoring algorithm of a commercial ATS.
 
